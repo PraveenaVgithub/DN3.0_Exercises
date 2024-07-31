@@ -1,0 +1,6 @@
+package FactoryMethodPatternExample;
+
+abstract class Document {
+    public abstract void open();
+    public abstract void close();
+}
